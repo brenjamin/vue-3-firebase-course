@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "dfasf",
+      "body": "fdasf",
+      "tags": [
+        "test"
+      ],
+      "id": 3
+    },
+    {
+      "title": "fdasf",
+      "body": "fdasfas",
+      "tags": [
+        "tes"
+      ],
+      "id": 4
+    },
+    {
+      "title": "test",
+      "body": "fdasfasfda",
+      "tags": [
+        "tes",
+        "thml"
+      ],
+      "id": 5
+    },
+    {
+      "title": "test",
+      "body": "new content",
+      "tags": [
+        "linkedin"
+      ],
+      "id": 6
+    },
+    {
+      "title": "test",
+      "body": "new body",
+      "tags": [
+        "css",
+        "papabless"
+      ],
+      "id": 7
+    },
+    {
+      "title": "New Blog Post",
+      "body": "This is a blog post.",
+      "tags": [
+        "html",
+        "news",
+        "css",
+        "vue"
+      ],
+      "id": 8
+    }
+  ]
+}
